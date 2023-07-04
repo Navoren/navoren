@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nmntmr" target="blank"><img src="https://img.shields.io/twitter/follow/nmntmr?logo=twitter&style=for-the-badge" alt="nmntmr" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Javascript, React.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **Javascript, React.js, Node.js, MongoDB**
 
 - 📫 How to reach me **namantomar1453@gmail.com**
 
