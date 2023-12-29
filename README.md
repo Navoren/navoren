@@ -94,10 +94,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Navoren/Navoren/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="500" src="https://66.media.tumblr.com/ec91d01e032655ead88cb109ed646b8e/tumblr_pz5xlpm2wT1tgo74ho1_640.gif"  />
 </div>
@@ -109,5 +105,9 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ivdte8tiaxw4rdk2cvb571poc&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Navoren/Navoren/output/snake.svg" alt="Snake animation" />
 
 ###
